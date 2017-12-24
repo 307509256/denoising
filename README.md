@@ -10,8 +10,9 @@
 + util.py 包含各种辅助处理函数
 
 #### 环境
-Ubuntu16.04
-python3.5
+- Ubuntu16.04 python3.5
+- Windows
+
 
 #### 依赖
 + tensorflow-gpu==1.4.1
