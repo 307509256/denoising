@@ -19,3 +19,10 @@
 + nnresample==0.1.2
 + librosa==0.5.1
 + SoundFile==0.9.0.post1
+
+#### 数据下载
+数据下载-百度云盘：[链接](http://pan.baidu.com/s/1bZAQyM) 密码：pqre
+
+语音数据来自TSP，噪声数据来自NOISEX-92。
+详细情况见数据文件夹内的readme.md。
+下载好后解压到denoising_windows/dataset目录下
