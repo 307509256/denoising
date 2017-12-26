@@ -50,6 +50,8 @@ sudo pip3 install ipython[all]
 pip -V
 
 ## install
-pip3 install scipy==1.0.0 audioread==2.1.5 bleach==1.5.0 cffi==1.11.2 decorator==4.1.2 enum34==1.1.6 html5lib==0.9999999 joblib==0.11 librosa==0.5.1 llvmlite==0.21.0 Markdown==2.6.10 nnresample==0.1.2 numba==0.36.1 numpy==1.13.3 protobuf==3.5.0.post1 pycparser==2.18 resampy==0.2.0 scikit-learn==0.19.1 six==1.11.0 SoundFile==0.9.0.post1 tensorflow-tensorboard==0.4.0rc3 Werkzeug==0.13 
+pip3 install scipy==1.0.0 
+
+pip3 install audioread==2.1.5 bleach==1.5.0 cffi==1.11.2 decorator==4.1.2 enum34==1.1.6 html5lib==0.9999999 joblib==0.11 librosa==0.5.1 llvmlite==0.21.0 Markdown==2.6.10 nnresample==0.1.2 numba==0.36.1 numpy==1.13.3 protobuf==3.5.0.post1 pycparser==2.18 resampy==0.2.0 scikit-learn==0.19.1 six==1.11.0 SoundFile==0.9.0.post1 tensorflow-tensorboard==0.4.0rc3 Werkzeug==0.13 
 
 pip3 install -I tensorflow-gpu==1.4.1
