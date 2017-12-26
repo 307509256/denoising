@@ -28,6 +28,7 @@
 下载好后解压到denoising_windows/dataset目录下
 
 ## install python3.5
+```
 sudo apt-get install python-software-properties
 sudo apt-get install software-properties-common
 sudo add-apt-repository ppa:fkrull/deadsnakes
@@ -38,13 +39,14 @@ sudo rm /usr/bin/python
 sudo ln -s /usr/bin/python3.5 /usr/bin/python
 
 python --version
-
+```
 ## install pip3.5
+```
 wget https://bootstrap.pypa.io/get-pip.py  
 sudo python3 get-pip.py  
 sudo pip3 install setuptools --upgrade  
 sudo pip3 install ipython[all]
-
+```
 pip -V
 
 ## install
