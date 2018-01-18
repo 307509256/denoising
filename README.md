@@ -25,7 +25,7 @@
 
 语音数据来自TSP，噪声数据来自NOISEX-92。
 详细情况见数据文件夹内的readme.md。
-下载好后解压到denoising_windows/dataset目录下
+下载好后解压到denoising/dataset目录下
 
 ## install python3.5
 ```
